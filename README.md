@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey there!
 
-# 💫 About Me:
+I'm Dhruv Jain, a developer passionate about AI, Machine Learning, Data Science, and building impactful software.
 🔭 I’m currently working on ML, Data Science, and AI-powered applications.<br>🌱 I’m currently learning and exploring various fields within AI, ML, and software development.<br>🤝 I’m looking to collaborate on AI, ML, and software development projects.<br>💬 Reach out to me at: [Instagram](https://instagram.com/dhruvjain_2208) or dhruvjain.677@gmail.com
 
 
