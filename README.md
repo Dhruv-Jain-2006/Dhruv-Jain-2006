@@ -1,4 +1,4 @@
-## Hey there!
+## Hey there! ✨
 
 I'm Dhruv Jain, a developer passionate about AI, Machine Learning, Data Science, and building impactful software.
 
